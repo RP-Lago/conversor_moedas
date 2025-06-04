@@ -138,5 +138,6 @@ Este projeto está licenciado sob a licença MIT.
   cd my-project
 ```
     
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![Badge-Conversor](https://github.com/user-attachments/assets/a5b8cfef-6ad3-4387-bbd8-2f50a935a358)
 
